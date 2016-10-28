@@ -1,2 +1,3 @@
-# Tangible-Media
-this is my tangible media page
+# Spin Platform
+Check out my spinning platform prototype here.
+
